@@ -8,7 +8,7 @@ I am karthik c. I am a tech enthusiast & an open-source person. I am always open
 [![Twitter Badge](https://img.shields.io/badge/-karthikc0711-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Karthikc0711)](https://twitter.com/karthikc0711)
 ![](https://ibb.co/g3wFSjQ)
 
-
+### [Connect with me 💬]([https://kunalkushwaha.com](https://karthikc07.wixsite.com/portfolio)) 
 <br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=THANKS+FOR+YOUR+VISIT!!!"
