@@ -12,7 +12,17 @@ I am karthik c. I am a tech enthusiast & an open-source person. I am always open
 ### [Connect with me 💬](https://karthikc07.wixsite.com/portfolio)
 
 ## My Recent Blogs
-### What is a hackathon? 10 hacks to prepare for a Hackathon💻].(https://medium.com/@karthikc0711/introduction-d654502b3944)
+## >>>>[What is a hackathon? 10 hacks to prepare for a Hackathon💻!](https://medium.com/@karthikc0711/introduction-d654502b3944)
+What is a Hackathon?<br>
+A hackathon is a competition where teams of programmers, designers, and others work together to create a new application, website, or service.Top 10 tips to win hackathon
+Whether it’s your first or fiftieth hackathon, these ten tips will help you make the most of the experience and have a better chance of winning.. </p>
+<br>
+<br>
+
+## >>>>[How OPEN SOURCE Made Me A Better programmer!!](https://medium.com/@karthikc0711/how-open-source-made-me-a-better-programmer-4bbfe28a75b3)
+what is open source <br>
+open source projects were still an important part of my daily life — not just because they’re fun but also because they help people learn new skills and make them better programmers overall! Here are some ways that open source has helped me as an engineer. </p>
+<br>
 <br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=THANKS+FOR+YOUR+VISIT!!!"
