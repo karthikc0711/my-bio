@@ -10,6 +10,9 @@ I am karthik c. I am a tech enthusiast & an open-source person. I am always open
 
 
 ### [Connect with me 💬](https://karthikc07.wixsite.com/portfolio)
+
+## My Recent Blogs
+### What is a hackathon? 10 hacks to prepare for a Hackathon💻].(https://medium.com/@karthikc0711/introduction-d654502b3944)
 <br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=THANKS+FOR+YOUR+VISIT!!!"
